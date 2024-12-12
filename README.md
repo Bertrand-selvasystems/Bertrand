@@ -42,8 +42,8 @@ Les fichiers personnalisés pour cet exemple sont :
 
 L'exemple optimise une forme géométrique selon deux critères contradictoires. Voici un aperçu des résultats attendus :
 
-- **Objectif 1** : Minimiser la surface de la forme.
-- **Objectif 2** : Maximiser le périmètre.
+- **Objectif 1** : Diminuer la différence de marche d'onde pour toutes les ondes incidentes
+- **Objectif 2** : Maximiser la refléxion vers le point focal choisi avant le début de l'optimisation
 
 L'algorithme explore les compromis possibles entre ces deux objectifs et génère un ensemble de solutions Pareto optimales.
 
