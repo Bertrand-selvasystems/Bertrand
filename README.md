@@ -1,5 +1,5 @@
 
-# Optimisation de Forme et Algorithme Génétique : Exemple en Python
+# Optimisation de Forme et Algorithme Génétique : Exemple avec NSGAIII sous Matlab
 
 Ce dépôt contient une mise en application simple de l'algorithme génétique NSGA-III pour illustrer l'optimisation multi-objectifs, en complément de l'article publié sur [selvasystems.net](https://selvasystems.net/optimisation-de-forme-et-algorithme-genetique-et-exemple-stupide).
 
