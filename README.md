@@ -36,14 +36,7 @@ Les fichiers personnalisés pour cet exemple sont :
    ```bash
    git clone https://github.com/votre-utilisateur/optimisation_forme_exemple_NSGAIII.git
    ```
-2. Installez les dépendances :
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Exécutez l'exemple principal :
-   ```bash
-   python src/main.py
-   ```
+2. Lancer dans Matlab le fichier nsga3.m
 
 ## Exemple d'optimisation
 
