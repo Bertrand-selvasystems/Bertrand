@@ -40,12 +40,13 @@ Les fichiers personnalisés pour cet exemple sont :
 
 ## Exemple d'optimisation
 
-L'exemple optimise une forme géométrique selon deux critères contradictoires. Voici un aperçu des résultats attendus :
+L'exemple optimise une forme géométrique selon deux critères :
 
 - **Objectif 1** : Diminuer la différence de marche d'onde pour toutes les ondes incidentes
 - **Objectif 2** : Maximiser la refléxion vers le point focal choisi avant le début de l'optimisation
 
-L'algorithme explore les compromis possibles entre ces deux objectifs et génère un ensemble de solutions Pareto optimales.
+Normalement l'algorithme explore les compromis possibles entre les deux objectifs à minimiser et génère un ensemble de solutions Pareto optimales.
+Ici la solution attendue étant une parabole, les deux critères ne sont pas antagonistes. Ce qui conduit à un front de Pareto réduit à un point unique.
 
 ## Licence
 
